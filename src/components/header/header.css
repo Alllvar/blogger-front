@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 3px solid rgb(119, 218, 53);
+    align-items: center;
+    margin: 20px;
+}
+
+.logo-container {
+    margin-left: 25px;
+}
+
+.menu-container {
+    display: flex;
+    justify-content: space-between;
+    width: 350px;
+    margin-right: 25px;
+}
+
+.menu-element {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+
+.menu-element:hover {
+    color: rgb(119, 218, 53);
+}
