@@ -1,0 +1,36 @@
+.post-preview-container {
+    border: 2px solid yellow;
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    margin: 25px;
+}
+
+.post-img-container {
+    width: 210px;
+    height: 210px;
+    margin: 15px;
+}
+
+.img {
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.post-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-left: 25px;
+}
+
+.post-title {
+
+}
+
+.read-more {
+    padding: 7px;
+}

@@ -41,6 +41,7 @@ module.exports = {
     alias: {
       fonts: path.resolve(__dirname, '../src/fonts'),
       components: path.resolve(__dirname, '../src/components'),
+      containers: path.resolve(__dirname, '../src/containers'),
     }
   },
   plugins: [

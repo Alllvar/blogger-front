@@ -1,0 +1,9 @@
+/* Global styles go here */
+
+.page-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+.page-wrapper .page {
+    flex: 1;
+}
